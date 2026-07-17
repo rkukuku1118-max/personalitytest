@@ -1,0 +1,1775 @@
+{
+  "60": {
+    "id": "60",
+    "label": "60問版",
+    "source": {
+      "questions": "src/data/test-definitions.json",
+      "convertedFrom": "ref/60/Japanese_self60.doc",
+      "scoring": "ref/60/ScoringKeys_60.pdf",
+      "descriptives": "ref/60/descriptives_60.pdf"
+    },
+    "responseOptions": [
+      "あてはまらない（そうではない）",
+      "どちらかといえば，あてはまらない",
+      "どちらともいえない",
+      "どちらかといえば，あてはまる",
+      "あてはまる（そうである）"
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "text": "美術館に行くと，とても退屈してしまう。"
+      },
+      {
+        "id": 2,
+        "text": "最後になってあわてないために，前もって計画を立ててものごとの準備をする。"
+      },
+      {
+        "id": 3,
+        "text": "たとえひどく不当な扱いをされた相手に対しても，めったに悪意を抱くことはない。"
+      },
+      {
+        "id": 4,
+        "text": "私は全体的に自分自身にほどよく満足していると感じている。"
+      },
+      {
+        "id": 5,
+        "text": "悪天候のときに旅行をしなければならないとしたら，怖れを感じる。"
+      },
+      {
+        "id": 6,
+        "text": "たとえそうすればうまくいくと思っても，仕事の上で昇進するためにお世辞を言ったりしようとは思わない。"
+      },
+      {
+        "id": 7,
+        "text": "他の国の歴史や政治について学ぶことに興味がある。"
+      },
+      {
+        "id": 8,
+        "text": "目標を達成しようとするときは，しばしば自分をとても激しく追い詰める。"
+      },
+      {
+        "id": 9,
+        "text": "人からときどき，他人に対して批判的すぎると言われる。"
+      },
+      {
+        "id": 10,
+        "text": "集団での話し合いでは，自分の意見を言うことはめったにない。"
+      },
+      {
+        "id": 11,
+        "text": "ちょっとしたことが心配になって，それを抑えることができないことがある。"
+      },
+      {
+        "id": 12,
+        "text": "もし決して捕まらないとわかっているのなら，私は1億円を盗もうと思う。"
+      },
+      {
+        "id": 13,
+        "text": "小説を書いたり，曲を作ったり，絵を描いたりといった，芸術作品を創作することは楽しい。"
+      },
+      {
+        "id": 14,
+        "text": "何かの仕事をするとき，細かい点にはあまり注意を払わない。"
+      },
+      {
+        "id": 15,
+        "text": "ときどき人から，私は頑固すぎると言われる。"
+      },
+      {
+        "id": 16,
+        "text": "一人でやるよりも，積極的な人との関わりを含む仕事の方が好きだ。"
+      },
+      {
+        "id": 17,
+        "text": "苦痛な体験に苦しんでいるときには，慰めを与えてくれる人が必要である。"
+      },
+      {
+        "id": 18,
+        "text": "大金を持つことは，自分にとって特に重要なことではない。"
+      },
+      {
+        "id": 19,
+        "text": "とても斬新で慣習にとらわれない考えを考慮することは，時間の無駄だと思う。"
+      },
+      {
+        "id": 20,
+        "text": "私は，よく考えた上でよりも，そのときの気持ち次第で物事を決める（ことがある）。"
+      },
+      {
+        "id": 21,
+        "text": "他の人は，私のことを短気な人間だと思っている。"
+      },
+      {
+        "id": 22,
+        "text": "たいていは，元気で楽天的である。"
+      },
+      {
+        "id": 23,
+        "text": "他の人が泣いているのをみると，私も泣きたくなる。"
+      },
+      {
+        "id": 24,
+        "text": "私は，平均的な人間よりも，尊重される権利があると思う。"
+      },
+      {
+        "id": 25,
+        "text": "もし機会があれば，クラシック音楽の演奏会に行きたい。"
+      },
+      {
+        "id": 26,
+        "text": "仕事をしているとき，ときどき自分がだらしがないために困ってしまうことがある。"
+      },
+      {
+        "id": 27,
+        "text": "私にひどいことをした人に対する私の態度は，「許して忘れる」ことである。"
+      },
+      {
+        "id": 28,
+        "text": "自分は人気がない人間だと感じている。"
+      },
+      {
+        "id": 29,
+        "text": "身体的な危険が迫ると，とても怖い。"
+      },
+      {
+        "id": 30,
+        "text": "もし，何かをある人から手に入れようと思っているときには，その人がくだらない冗談を言っても笑うだろう。"
+      },
+      {
+        "id": 31,
+        "text": "百科事典を読むことを楽しんだことはない。"
+      },
+      {
+        "id": 32,
+        "text": "必要とされる最低限の仕事しかしない。"
+      },
+      {
+        "id": 33,
+        "text": "他の人を判断するときには，甘い（手加減する）傾向がある。"
+      },
+      {
+        "id": 34,
+        "text": "社会的（対人）場面では，たいてい私がはじめに行動する人間である。"
+      },
+      {
+        "id": 35,
+        "text": "他の人ほどは心配性ではない。"
+      },
+      {
+        "id": 36,
+        "text": "たとえどんなに大金でも，賄賂は決して受け取らない。"
+      },
+      {
+        "id": 37,
+        "text": "人から，よく私は優れた想像力を持っていると言われることがある。"
+      },
+      {
+        "id": 38,
+        "text": "たとえ時間がかかっても，自分の仕事ではいつも正確であるようにしている。"
+      },
+      {
+        "id": 39,
+        "text": "人が私に同調しないときは，私はたいてい自分の意見について，かなり柔軟である。"
+      },
+      {
+        "id": 40,
+        "text": "新しい場所に行っていつも最初にすることは，友達を作ることである。"
+      },
+      {
+        "id": 41,
+        "text": "誰かの感情的な支えがないとしても，困難な状況に対処することができる。"
+      },
+      {
+        "id": 42,
+        "text": "高価で贅沢なものを所有することで，多くの楽しみが得られる。"
+      },
+      {
+        "id": 43,
+        "text": "私は，ny欀つ型にはまらない見方をする人が好きである。"
+      },
+      {
+        "id": 44,
+        "text": "行動する前に考えないので，たくさんの失敗をしてしまう。"
+      },
+      {
+        "id": 45,
+        "text": "たいていの人は，私よりもすぐに怒り出す。"
+      },
+      {
+        "id": 46,
+        "text": "たいていの人は，私よりも陽気で活発である。"
+      },
+      {
+        "id": 47,
+        "text": "自分と親しい人が長い間遠くに行ってしまうときには，強い感情を感じる。"
+      },
+      {
+        "id": 48,
+        "text": "私が高い地位にいる重要な人間であることを他の人に知ってほしい。"
+      },
+      {
+        "id": 49,
+        "text": "自分のことを，芸術家タイプとか，創造的なタイプであるとは思わない。"
+      },
+      {
+        "id": 50,
+        "text": "人からしばしば完全主義者だと言われる。"
+      },
+      {
+        "id": 51,
+        "text": "たとえ人がたくさん間違いを犯したときでも，私はめったに否定的なことは言わない。"
+      },
+      {
+        "id": 52,
+        "text": "自分は価値のない人間だと感じる。"
+      },
+      {
+        "id": 53,
+        "text": "たとえ非常時の場合でも，あわてふためいたりすることはない。"
+      },
+      {
+        "id": 54,
+        "text": "誰かに私のたのみを聞いてもらうために，その人を好きなふりをしようとは思わない。"
+      },
+      {
+        "id": 55,
+        "text": "哲学について議論するのは，うんざりである。"
+      },
+      {
+        "id": 56,
+        "text": "私は，何でも計画通りにするよりも，思いついたことをするのが好きである。"
+      },
+      {
+        "id": 57,
+        "text": "人から私が間違っていると言われたとき，私の最初の反応は，相手に同意しないことである。"
+      },
+      {
+        "id": 58,
+        "text": "集団の中にいるとき，しばしばその集団を代表して話をする人間である。"
+      },
+      {
+        "id": 59,
+        "text": "たいていの人がとても感傷的になるような状況でも，私は冷静でいられる。"
+      },
+      {
+        "id": 60,
+        "text": "もし絶対に捕まらないなら，偽札を使ってみたい。"
+      }
+    ],
+    "domains": [
+      {
+        "id": "honesty",
+        "label": "誠実さ・謙虚さ",
+        "facets": [
+          {
+            "id": "sincerity",
+            "label": "正直さ",
+            "items": [
+              {
+                "number": 6,
+                "reverse": false
+              },
+              {
+                "number": 30,
+                "reverse": true
+              },
+              {
+                "number": 54,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "fairness",
+            "label": "公正さ",
+            "items": [
+              {
+                "number": 12,
+                "reverse": true
+              },
+              {
+                "number": 36,
+                "reverse": false
+              },
+              {
+                "number": 60,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "greedAvoidance",
+            "label": "欲のなさ",
+            "items": [
+              {
+                "number": 18,
+                "reverse": false
+              },
+              {
+                "number": 42,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "modesty",
+            "label": "謙虚さ",
+            "items": [
+              {
+                "number": 24,
+                "reverse": true
+              },
+              {
+                "number": 48,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "emotionality",
+        "label": "情動性",
+        "facets": [
+          {
+            "id": "fearfulness",
+            "label": "怖れやすさ",
+            "items": [
+              {
+                "number": 5,
+                "reverse": false
+              },
+              {
+                "number": 29,
+                "reverse": false
+              },
+              {
+                "number": 53,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "anxiety",
+            "label": "不安",
+            "items": [
+              {
+                "number": 11,
+                "reverse": false
+              },
+              {
+                "number": 35,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "dependence",
+            "label": "依存",
+            "items": [
+              {
+                "number": 17,
+                "reverse": false
+              },
+              {
+                "number": 41,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "sentimentality",
+            "label": "感傷性",
+            "items": [
+              {
+                "number": 23,
+                "reverse": false
+              },
+              {
+                "number": 47,
+                "reverse": false
+              },
+              {
+                "number": 59,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "extraversion",
+        "label": "外向性",
+        "facets": [
+          {
+            "id": "socialSelfEsteem",
+            "label": "社会的自尊感情",
+            "items": [
+              {
+                "number": 4,
+                "reverse": false
+              },
+              {
+                "number": 28,
+                "reverse": true
+              },
+              {
+                "number": 52,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "socialBoldness",
+            "label": "社会的大胆さ",
+            "items": [
+              {
+                "number": 10,
+                "reverse": true
+              },
+              {
+                "number": 34,
+                "reverse": false
+              },
+              {
+                "number": 58,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "sociability",
+            "label": "社交性",
+            "items": [
+              {
+                "number": 16,
+                "reverse": false
+              },
+              {
+                "number": 40,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "liveliness",
+            "label": "活発さ",
+            "items": [
+              {
+                "number": 22,
+                "reverse": false
+              },
+              {
+                "number": 46,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "agreeableness",
+        "label": "協調性",
+        "facets": [
+          {
+            "id": "forgiveness",
+            "label": "寛容さ",
+            "items": [
+              {
+                "number": 3,
+                "reverse": false
+              },
+              {
+                "number": 27,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "gentleness",
+            "label": "温和さ",
+            "items": [
+              {
+                "number": 9,
+                "reverse": true
+              },
+              {
+                "number": 33,
+                "reverse": false
+              },
+              {
+                "number": 51,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "flexibility",
+            "label": "柔軟さ",
+            "items": [
+              {
+                "number": 15,
+                "reverse": true
+              },
+              {
+                "number": 39,
+                "reverse": false
+              },
+              {
+                "number": 57,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "patience",
+            "label": "忍耐",
+            "items": [
+              {
+                "number": 21,
+                "reverse": true
+              },
+              {
+                "number": 45,
+                "reverse": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conscientiousness",
+        "label": "勤勉性",
+        "facets": [
+          {
+            "id": "organization",
+            "label": "整理性",
+            "items": [
+              {
+                "number": 2,
+                "reverse": false
+              },
+              {
+                "number": 26,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "diligence",
+            "label": "勤勉さ",
+            "items": [
+              {
+                "number": 8,
+                "reverse": false
+              },
+              {
+                "number": 32,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "perfectionism",
+            "label": "完璧主義",
+            "items": [
+              {
+                "number": 14,
+                "reverse": true
+              },
+              {
+                "number": 38,
+                "reverse": false
+              },
+              {
+                "number": 50,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "prudence",
+            "label": "慎重さ",
+            "items": [
+              {
+                "number": 20,
+                "reverse": true
+              },
+              {
+                "number": 44,
+                "reverse": true
+              },
+              {
+                "number": 56,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "openness",
+        "label": "開放性",
+        "facets": [
+          {
+            "id": "aestheticAppreciation",
+            "label": "審美性",
+            "items": [
+              {
+                "number": 1,
+                "reverse": true
+              },
+              {
+                "number": 25,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "inquisitiveness",
+            "label": "探究心",
+            "items": [
+              {
+                "number": 7,
+                "reverse": false
+              },
+              {
+                "number": 31,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "creativity",
+            "label": "創造性",
+            "items": [
+              {
+                "number": 13,
+                "reverse": false
+              },
+              {
+                "number": 37,
+                "reverse": false
+              },
+              {
+                "number": 49,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "unconventionality",
+            "label": "非慣習性",
+            "items": [
+              {
+                "number": 19,
+                "reverse": true
+              },
+              {
+                "number": 43,
+                "reverse": false
+              },
+              {
+                "number": 55,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "norms": {
+      "domains": {
+        "honesty": {
+          "mean": 3.23,
+          "sd": 0.66
+        },
+        "emotionality": {
+          "mean": 3.36,
+          "sd": 0.7
+        },
+        "extraversion": {
+          "mean": 3.51,
+          "sd": 0.62
+        },
+        "agreeableness": {
+          "mean": 3.1,
+          "sd": 0.63
+        },
+        "conscientiousness": {
+          "mean": 3.47,
+          "sd": 0.61
+        },
+        "openness": {
+          "mean": 3.49,
+          "sd": 0.67
+        }
+      },
+      "facets": {}
+    }
+  },
+  "100": {
+    "id": "100",
+    "label": "100問版",
+    "source": {
+      "questions": "src/data/test-definitions.json",
+      "convertedFrom": "ref/100/Japanese_self100.doc",
+      "scoring": "ref/100/ScoringKeys_100.pdf",
+      "descriptives": "ref/100/descriptives_100.pdf"
+    },
+    "responseOptions": [
+      "あてはまらない（そうではない）",
+      "どちらかといえば，あてはまらない",
+      "どちらともいえない",
+      "どちらかといえば，あてはまる",
+      "あてはまる（そうである）"
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "text": "美術館に行くと，とても退屈してしまう。"
+      },
+      {
+        "id": 2,
+        "text": "私は，自分の家の部屋やオフィス（仕事場）を頻繁に掃除する。"
+      },
+      {
+        "id": 3,
+        "text": "たとえひどく不当な扱いをされた相手に対しても，めったに悪意を抱くことはない。"
+      },
+      {
+        "id": 4,
+        "text": "私は全体的に自分自身にほどよく満足していると感じている。"
+      },
+      {
+        "id": 5,
+        "text": "悪天候のときに旅行をしなければならないとしたら，怖れを感じる。"
+      },
+      {
+        "id": 6,
+        "text": "もし自分が嫌いな人に何かをしてほしいときには，そのために，その人に対して愛想よく行動するだろう。"
+      },
+      {
+        "id": 7,
+        "text": "他の国の歴史や政治について学ぶことに興味がある。"
+      },
+      {
+        "id": 8,
+        "text": "仕事をするときには，しばしば自分からみて野心的な高い目標を設定する。"
+      },
+      {
+        "id": 9,
+        "text": "人からときどき，他人に対して批判的すぎると言われる。"
+      },
+      {
+        "id": 10,
+        "text": "集団での話し合いでは，自分の意見を言うことはめったにない。"
+      },
+      {
+        "id": 11,
+        "text": "ちょっとしたことが心配になって，それを抑えることができないことがある。"
+      },
+      {
+        "id": 12,
+        "text": "もし決して捕まらないとわかっているのなら，私は1億円を盗もうと思う。"
+      },
+      {
+        "id": 13,
+        "text": "創造性を求められるよりも，決まったとおりにやることを求められる仕事をしたい。"
+      },
+      {
+        "id": 14,
+        "text": "一つも間違いがないように，しばしば何度も自分の仕事をチェックする。"
+      },
+      {
+        "id": 15,
+        "text": "ときどき人から，私は頑固すぎると言われる。"
+      },
+      {
+        "id": 16,
+        "text": "人と雑談をすることを避けている。"
+      },
+      {
+        "id": 17,
+        "text": "苦痛な体験に苦しんでいるときには，慰めを与えてくれる人が必要である。"
+      },
+      {
+        "id": 18,
+        "text": "大金を持つことは，自分にとって特に重要なことではない。"
+      },
+      {
+        "id": 19,
+        "text": "とても斬新で慣習にとらわれない考えを考慮することは，時間の無駄だと思う。"
+      },
+      {
+        "id": 20,
+        "text": "私は，よく考えた上でよりも，そのときの気持ち次第で物事を決める（ことがある）。"
+      },
+      {
+        "id": 21,
+        "text": "他の人は，私のことを短気な人間だと思っている。"
+      },
+      {
+        "id": 22,
+        "text": "ほとんどいつでもエネルギッシュ（活動的）である。"
+      },
+      {
+        "id": 23,
+        "text": "他の人が泣いているのをみると，私も泣きたくなる。"
+      },
+      {
+        "id": 24,
+        "text": "私は，他の人より特に優れているわけではない普通の人間である。"
+      },
+      {
+        "id": 25,
+        "text": "詩集を読むことに時間を使うことはない。"
+      },
+      {
+        "id": 26,
+        "text": "最後になってあわてないために，前もって計画を立ててものごとの準備をする。"
+      },
+      {
+        "id": 27,
+        "text": "私にひどいことをした人に対する私の態度は，「許して忘れる」ことである。"
+      },
+      {
+        "id": 28,
+        "text": "ほとんどの人が私の性格のうちのいくつかの要素を好きだと私は思っている。"
+      },
+      {
+        "id": 29,
+        "text": "危険な作業がある仕事をすることは心配にならない。"
+      },
+      {
+        "id": 30,
+        "text": "たとえそうすればうまくいくと思っても，仕事の上で昇進するためにお世辞を言ったりしようとは思わない。"
+      },
+      {
+        "id": 31,
+        "text": "いろいろな場所の地図を見ることは楽しい。"
+      },
+      {
+        "id": 32,
+        "text": "目標を達成しようとするときは，しばしば自分をとても激しく追い詰める。"
+      },
+      {
+        "id": 33,
+        "text": "たいていは，文句を言わずに人の失敗を受け入れる。"
+      },
+      {
+        "id": 34,
+        "text": "社会的（対人）場面では，たいてい私がはじめに行動する人間である。"
+      },
+      {
+        "id": 35,
+        "text": "他の人ほどは心配性ではない。"
+      },
+      {
+        "id": 36,
+        "text": "お金に余裕がない場合は，盗品とはわかっていても購入したいという誘惑を感じることがある。"
+      },
+      {
+        "id": 37,
+        "text": "小説を書いたり，曲を作ったり，絵を描いたりといった，芸術作品を創作することは楽しい。"
+      },
+      {
+        "id": 38,
+        "text": "何かの仕事をするとき，細かい点にはあまり注意を払わない。"
+      },
+      {
+        "id": 39,
+        "text": "人が私に同調しないときは，私はたいてい自分の意見について，かなり柔軟である。"
+      },
+      {
+        "id": 40,
+        "text": "周囲に多くの話し相手がいる時は楽しい。"
+      },
+      {
+        "id": 41,
+        "text": "誰かの感情的な支えがないとしても，困難な状況に対処することができる。"
+      },
+      {
+        "id": 42,
+        "text": "非常に地価が高く，近隣に社会的地位の高い人が住んでいる場所に住みたい。"
+      },
+      {
+        "id": 43,
+        "text": "私は，型にはまらない見方をする人が好きである。"
+      },
+      {
+        "id": 44,
+        "text": "行動する前に考えないので，たくさんの失敗をしてしまう。"
+      },
+      {
+        "id": 45,
+        "text": "たとえ人から明らかにひどい扱いを受けたときでも，めったに怒りは感じない。"
+      },
+      {
+        "id": 46,
+        "text": "たいていは，元気で楽天的である。"
+      },
+      {
+        "id": 47,
+        "text": "自分がよく知っている人が悲しんでいるときには，その人の苦痛をほとんど自分のことのように感じることがある。"
+      },
+      {
+        "id": 48,
+        "text": "自分が他の人よりも優れているかのように周囲の人から扱われることを望まない。"
+      },
+      {
+        "id": 49,
+        "text": "もし機会があれば，クラシック音楽の演奏会に行きたい。"
+      },
+      {
+        "id": 50,
+        "text": "私の部屋や机の上の散らかり具合のことで，人によくからかわれる。"
+      },
+      {
+        "id": 51,
+        "text": "もし一度でも誰かにだまされたら，いつでもその人に疑いを持つだろう。"
+      },
+      {
+        "id": 52,
+        "text": "自分は人気がない人間だと感じている。"
+      },
+      {
+        "id": 53,
+        "text": "身体的な危険が迫ると，とても怖い。"
+      },
+      {
+        "id": 54,
+        "text": "もし，何かをある人から手に入れようと思っているときには，その人がくだらない冗談を言っても笑うだろう。"
+      },
+      {
+        "id": 55,
+        "text": "科学技術の歴史についての本は，私にとってはとても退屈である。"
+      },
+      {
+        "id": 56,
+        "text": "目標を設定しても，しばしば，それを達成せずにやめてしまう。"
+      },
+      {
+        "id": 57,
+        "text": "他の人を判断するときには，甘い（手加減する）傾向がある。"
+      },
+      {
+        "id": 58,
+        "text": "集団の中にいるとき，しばしばその集団を代表して話をする人間である。"
+      },
+      {
+        "id": 59,
+        "text": "ストレスや不安で眠れなくなったことは，めったにない。"
+      },
+      {
+        "id": 60,
+        "text": "たとえどんなに大金でも，賄賂は決して受け取らない。"
+      },
+      {
+        "id": 61,
+        "text": "摫て人から，よく私は優れた想像力を持っていると言われることがある。"
+      },
+      {
+        "id": 62,
+        "text": "たとえ時間がかかっても，自分の仕事ではいつも正確であるようにしている。"
+      },
+      {
+        "id": 63,
+        "text": "人から私が間違っていると言われたとき，私の最初の反応は，相手に同意しないことである。"
+      },
+      {
+        "id": 64,
+        "text": "一人でやるよりも，積極的な人との関わりを含む仕事の方が好きだ。"
+      },
+      {
+        "id": 65,
+        "text": "何か心配なことがあるときは，いつでも自分の問題を他の人と共有することを求める。"
+      },
+      {
+        "id": 66,
+        "text": "高級車でドライブしているところを人に見られたい。"
+      },
+      {
+        "id": 67,
+        "text": "自分のことを，ちょっと変わった人間だと思っている。"
+      },
+      {
+        "id": 68,
+        "text": "自分の衝動のままに行動するようなことはない。"
+      },
+      {
+        "id": 69,
+        "text": "たいていの人は，私よりもすぐに怒り出す。"
+      },
+      {
+        "id": 70,
+        "text": "よく人から，もっと元気を出すように言われることがある。"
+      },
+      {
+        "id": 71,
+        "text": "自分と親しい人が長い間遠くに行ってしまうときには，強い感情を感じる。"
+      },
+      {
+        "id": 72,
+        "text": "私は，平均的な人間よりも，尊重される権利があると思う。"
+      },
+      {
+        "id": 73,
+        "text": "ときには，木々の間を吹き抜ける風を見るだけでも楽しい。"
+      },
+      {
+        "id": 74,
+        "text": "仕事をしているとき，ときどき自分がだらしがないために困ってしまうことがある。"
+      },
+      {
+        "id": 75,
+        "text": "私にひどいことをした人のことを，完全に許すことはなかなかできない。"
+      },
+      {
+        "id": 76,
+        "text": "自分は価値のない人間だと感じる。"
+      },
+      {
+        "id": 77,
+        "text": "たとえ非常時の場合でも，あわてふためいたりすることはない。"
+      },
+      {
+        "id": 78,
+        "text": "誰かに私のたのみを聞いてもらうために，その人を好きなふりをしようとは思わない。"
+      },
+      {
+        "id": 79,
+        "text": "百科事典を読むことを楽しんだことはない。"
+      },
+      {
+        "id": 80,
+        "text": "必要とされる最低限の仕事しかしない。"
+      },
+      {
+        "id": 81,
+        "text": "たとえ人がたくさん間違いを犯したときでも，私はめったに否定的なことは言わない。"
+      },
+      {
+        "id": 82,
+        "text": "大勢の人の前で話をするときには，とても恥ずかしさを感じてしまう傾向がある。"
+      },
+      {
+        "id": 83,
+        "text": "重要な決定の結果を聞くのを待っているときには，とても不安になる。"
+      },
+      {
+        "id": 84,
+        "text": "もし絶対に捕まらないなら，偽札を使ってみたい。"
+      },
+      {
+        "id": 85,
+        "text": "自分のことを，芸術家タイプとか，創造的なタイプであるとは思わない。"
+      },
+      {
+        "id": 86,
+        "text": "人からしばしば完全主義者だと言われる。"
+      },
+      {
+        "id": 87,
+        "text": "私が本当に自分は正しいと思っているときには，人と妥協することは難しい。"
+      },
+      {
+        "id": 88,
+        "text": "新しい場所に行っていつも最初にすることは，友達を作ることである。"
+      },
+      {
+        "id": 89,
+        "text": "自分の問題を他の人と話し合ったりすることは，めったにない。"
+      },
+      {
+        "id": 90,
+        "text": "高価で贅沢なものを所有することで，多くの楽しみが得られる。"
+      },
+      {
+        "id": 91,
+        "text": "哲学について議論するのは，うんざりである。"
+      },
+      {
+        "id": 92,
+        "text": "私は，何でも計画通りにするよりも，思いついたことをするのが好きである。"
+      },
+      {
+        "id": 93,
+        "text": "人から侮辱されたときは，我慢することは難しい。"
+      },
+      {
+        "id": 94,
+        "text": "たいていの人は，私よりも陽気で活発である。"
+      },
+      {
+        "id": 95,
+        "text": "たいていの人がとても感傷的になるような状況でも，私は冷静でいられる。"
+      },
+      {
+        "id": 96,
+        "text": "私が高い地位にいる重要な人間であることを他の人に知ってほしい。"
+      },
+      {
+        "id": 97,
+        "text": "自分よりも運が悪い人に対して，同情を感じる。"
+      },
+      {
+        "id": 98,
+        "text": "必要としている人には，気前よく提供しようとする。"
+      },
+      {
+        "id": 99,
+        "text": "嫌いな人を傷つけても，自分が悩むことはない。"
+      },
+      {
+        "id": 100,
+        "text": "人からは，私は冷たい人間だと思われている。"
+      }
+    ],
+    "domains": [
+      {
+        "id": "honesty",
+        "label": "誠実さ・謙虚さ",
+        "facets": [
+          {
+            "id": "sincerity",
+            "label": "正直さ",
+            "items": [
+              {
+                "number": 6,
+                "reverse": true
+              },
+              {
+                "number": 30,
+                "reverse": false
+              },
+              {
+                "number": 54,
+                "reverse": true
+              },
+              {
+                "number": 78,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "fairness",
+            "label": "公正さ",
+            "items": [
+              {
+                "number": 12,
+                "reverse": true
+              },
+              {
+                "number": 36,
+                "reverse": true
+              },
+              {
+                "number": 60,
+                "reverse": false
+              },
+              {
+                "number": 84,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "greedAvoidance",
+            "label": "欲のなさ",
+            "items": [
+              {
+                "number": 18,
+                "reverse": false
+              },
+              {
+                "number": 42,
+                "reverse": true
+              },
+              {
+                "number": 66,
+                "reverse": true
+              },
+              {
+                "number": 90,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "modesty",
+            "label": "謙虚さ",
+            "items": [
+              {
+                "number": 24,
+                "reverse": false
+              },
+              {
+                "number": 48,
+                "reverse": false
+              },
+              {
+                "number": 72,
+                "reverse": true
+              },
+              {
+                "number": 96,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "emotionality",
+        "label": "情動性",
+        "facets": [
+          {
+            "id": "fearfulness",
+            "label": "怖れやすさ",
+            "items": [
+              {
+                "number": 5,
+                "reverse": false
+              },
+              {
+                "number": 29,
+                "reverse": true
+              },
+              {
+                "number": 53,
+                "reverse": false
+              },
+              {
+                "number": 77,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "anxiety",
+            "label": "不安",
+            "items": [
+              {
+                "number": 11,
+                "reverse": false
+              },
+              {
+                "number": 35,
+                "reverse": true
+              },
+              {
+                "number": 59,
+                "reverse": true
+              },
+              {
+                "number": 83,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "dependence",
+            "label": "依存",
+            "items": [
+              {
+                "number": 17,
+                "reverse": false
+              },
+              {
+                "number": 41,
+                "reverse": true
+              },
+              {
+                "number": 65,
+                "reverse": false
+              },
+              {
+                "number": 89,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "sentimentality",
+            "label": "感傷性",
+            "items": [
+              {
+                "number": 23,
+                "reverse": false
+              },
+              {
+                "number": 47,
+                "reverse": false
+              },
+              {
+                "number": 71,
+                "reverse": false
+              },
+              {
+                "number": 95,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "extraversion",
+        "label": "外向性",
+        "facets": [
+          {
+            "id": "socialSelfEsteem",
+            "label": "社会的自尊感情",
+            "items": [
+              {
+                "number": 4,
+                "reverse": false
+              },
+              {
+                "number": 28,
+                "reverse": false
+              },
+              {
+                "number": 52,
+                "reverse": true
+              },
+              {
+                "number": 76,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "socialBoldness",
+            "label": "社会的大胆さ",
+            "items": [
+              {
+                "number": 10,
+                "reverse": true
+              },
+              {
+                "number": 34,
+                "reverse": false
+              },
+              {
+                "number": 58,
+                "reverse": false
+              },
+              {
+                "number": 82,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "sociability",
+            "label": "社交性",
+            "items": [
+              {
+                "number": 16,
+                "reverse": true
+              },
+              {
+                "number": 40,
+                "reverse": false
+              },
+              {
+                "number": 64,
+                "reverse": false
+              },
+              {
+                "number": 88,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "liveliness",
+            "label": "活発さ",
+            "items": [
+              {
+                "number": 22,
+                "reverse": false
+              },
+              {
+                "number": 46,
+                "reverse": false
+              },
+              {
+                "number": 70,
+                "reverse": true
+              },
+              {
+                "number": 94,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "agreeableness",
+        "label": "協調性",
+        "facets": [
+          {
+            "id": "forgiveness",
+            "label": "寛容さ",
+            "items": [
+              {
+                "number": 3,
+                "reverse": false
+              },
+              {
+                "number": 27,
+                "reverse": false
+              },
+              {
+                "number": 51,
+                "reverse": true
+              },
+              {
+                "number": 75,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "gentleness",
+            "label": "温和さ",
+            "items": [
+              {
+                "number": 9,
+                "reverse": true
+              },
+              {
+                "number": 33,
+                "reverse": false
+              },
+              {
+                "number": 57,
+                "reverse": false
+              },
+              {
+                "number": 81,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "flexibility",
+            "label": "柔軟さ",
+            "items": [
+              {
+                "number": 15,
+                "reverse": true
+              },
+              {
+                "number": 39,
+                "reverse": false
+              },
+              {
+                "number": 63,
+                "reverse": true
+              },
+              {
+                "number": 87,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "patience",
+            "label": "忍耐",
+            "items": [
+              {
+                "number": 21,
+                "reverse": true
+              },
+              {
+                "number": 45,
+                "reverse": false
+              },
+              {
+                "number": 69,
+                "reverse": false
+              },
+              {
+                "number": 93,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "conscientiousness",
+        "label": "勤勉性",
+        "facets": [
+          {
+            "id": "organization",
+            "label": "整理性",
+            "items": [
+              {
+                "number": 2,
+                "reverse": false
+              },
+              {
+                "number": 26,
+                "reverse": false
+              },
+              {
+                "number": 50,
+                "reverse": true
+              },
+              {
+                "number": 74,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "diligence",
+            "label": "勤勉さ",
+            "items": [
+              {
+                "number": 8,
+                "reverse": false
+              },
+              {
+                "number": 32,
+                "reverse": false
+              },
+              {
+                "number": 56,
+                "reverse": true
+              },
+              {
+                "number": 80,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "perfectionism",
+            "label": "完璧主義",
+            "items": [
+              {
+                "number": 14,
+                "reverse": false
+              },
+              {
+                "number": 38,
+                "reverse": true
+              },
+              {
+                "number": 62,
+                "reverse": false
+              },
+              {
+                "number": 86,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "prudence",
+            "label": "慎重さ",
+            "items": [
+              {
+                "number": 20,
+                "reverse": true
+              },
+              {
+                "number": 44,
+                "reverse": true
+              },
+              {
+                "number": 68,
+                "reverse": false
+              },
+              {
+                "number": 92,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "openness",
+        "label": "開放性",
+        "facets": [
+          {
+            "id": "aestheticAppreciation",
+            "label": "審美性",
+            "items": [
+              {
+                "number": 1,
+                "reverse": true
+              },
+              {
+                "number": 25,
+                "reverse": true
+              },
+              {
+                "number": 49,
+                "reverse": false
+              },
+              {
+                "number": 73,
+                "reverse": false
+              }
+            ]
+          },
+          {
+            "id": "inquisitiveness",
+            "label": "探究心",
+            "items": [
+              {
+                "number": 7,
+                "reverse": false
+              },
+              {
+                "number": 31,
+                "reverse": false
+              },
+              {
+                "number": 55,
+                "reverse": true
+              },
+              {
+                "number": 79,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "creativity",
+            "label": "創造性",
+            "items": [
+              {
+                "number": 13,
+                "reverse": true
+              },
+              {
+                "number": 37,
+                "reverse": false
+              },
+              {
+                "number": 61,
+                "reverse": false
+              },
+              {
+                "number": 85,
+                "reverse": true
+              }
+            ]
+          },
+          {
+            "id": "unconventionality",
+            "label": "非慣習性",
+            "items": [
+              {
+                "number": 19,
+                "reverse": true
+              },
+              {
+                "number": 43,
+                "reverse": false
+              },
+              {
+                "number": 67,
+                "reverse": false
+              },
+              {
+                "number": 91,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "altruism",
+        "label": "利他性",
+        "facets": [
+          {
+            "id": "altruismFacet",
+            "label": "利他性",
+            "items": [
+              {
+                "number": 97,
+                "reverse": false
+              },
+              {
+                "number": 98,
+                "reverse": false
+              },
+              {
+                "number": 99,
+                "reverse": true
+              },
+              {
+                "number": 100,
+                "reverse": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "norms": {
+      "domains": {
+        "honesty": {
+          "mean": 3.19,
+          "sd": 0.62
+        },
+        "emotionality": {
+          "mean": 3.43,
+          "sd": 0.62
+        },
+        "extraversion": {
+          "mean": 3.5,
+          "sd": 0.57
+        },
+        "agreeableness": {
+          "mean": 2.94,
+          "sd": 0.58
+        },
+        "conscientiousness": {
+          "mean": 3.44,
+          "sd": 0.56
+        },
+        "openness": {
+          "mean": 3.41,
+          "sd": 0.6
+        },
+        "altruism": {
+          "mean": 3.9,
+          "sd": 0.67
+        }
+      },
+      "facets": {
+        "socialSelfEsteem": {
+          "mean": 3.85,
+          "sd": 0.68
+        },
+        "socialBoldness": {
+          "mean": 3.03,
+          "sd": 0.87
+        },
+        "sociability": {
+          "mean": 3.59,
+          "sd": 0.75
+        },
+        "liveliness": {
+          "mean": 3.52,
+          "sd": 0.77
+        }
+      }
+    }
+  }
+}

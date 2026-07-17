@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.pnpm-store/
+.agents/
+.codex/
+.git.invalid-*/
+ref/
+dev-server.log
+dev-server.err.log
+*.tsbuildinfo
+.env
+.env.*
